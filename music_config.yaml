@@ -1,0 +1,17 @@
+MUSIC_CONFIG:
+  "Touhou 8 Extra Stage":
+    instruments: [0,1,2,4,6,8,10]
+    midi_directory: ""
+    tempo_modifier: 0.2
+    default_high_transpose: False
+  "Sparkle":
+    instruments: None
+    midi_directory: ""
+    tempo_modifier: 1.5
+    default_high_transpose: False
+  "Mabe Villiage":
+    instruments: None
+    midi_directory: ""
+    tempo_modifier: 0.2
+    default_high_transpose: False
+

@@ -1,0 +1,82 @@
+SERIAL_PORT: "COM11"
+MIDDLE_C: 60
+OCTAVE: 12
+BAUD_RATE: 115200
+START_CALIBRATE_COMMAND: 30
+END_CALIBRATE_COMMAND: 31
+KEYBOARD_PORT: 0
+MUSIC_NOTE_CONFIG:
+  52:
+    offset: 0
+    id: 10
+  53:
+    offset: 0
+    id: 6
+  55:
+    offset: 0
+    id: 2
+  57:
+    offset: 0
+    id: 28
+  58:
+    offset: 0
+    id: 24
+  59:
+    offset: 0
+    id: 20
+  60:
+    offset: 0
+    id: 16
+  61:
+    offset: 0
+    id: 12
+  62:
+    offset: 0
+    id: 8
+  63:
+    offset: 0
+    id: 4
+  64:
+    offset: 0
+    id: 0
+  65:
+    offset: 0
+    id: 27
+  66:
+    offset: 0
+    id: 23
+  67:
+    offset: 0
+    id: 19
+  68:
+    offset: 0
+    id: 15
+  69:
+    offset: 0
+    id: 11
+  70:
+    offset: 0
+    id: 7
+  71:
+    offset: 0
+    id: 3
+  72:
+    offset: 0
+    id: 29
+  73:
+    offset: 0
+    id: 25
+  74:
+    offset: 0
+    id: 21
+  75:
+    offset: 0
+    id: 17
+  76:
+    offset: 0
+    id: 13
+  77:
+    offset: 0
+    id: 9
+
+
